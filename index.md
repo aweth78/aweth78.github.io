@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Coding Projects
 
 [Craigslist Car Price EDA and Model](/Craigslist Case Study (2).html)
 <img src="craigslist-car.jpg?raw=true"/>
