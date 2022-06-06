@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Craigslist Car Price EDA and Model](/Craigslist Case Study (2).html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="craigslist-car.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
