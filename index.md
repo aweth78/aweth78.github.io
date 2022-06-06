@@ -5,7 +5,7 @@
 ### Coding Projects
 
 [Craigslist Car Price EDA and Model](/Craigslist Case Study (2).html)
-<img src="craiglist-car.jpg?raw=true"/>
+<img src="craiglist-car.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
