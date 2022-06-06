@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Craigslist Car Price EDA and Model](/Craigslist Case Study (2).html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
