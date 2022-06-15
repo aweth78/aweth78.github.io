@@ -4,7 +4,7 @@
 
 ### Coding Projects
 
-[Craigslist Car Price EDA and Model](/Craigslist Case Study (2).html)
+[Craigslist Used Car EDA and Linear Regression Model to Predict Price](/Craigslist Case Study (2).html)
 <img src="craiglist-car.jpg"/>
 
 ---
